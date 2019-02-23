@@ -29,7 +29,7 @@ title: 第九章 Xpath选择器之高级篇
     <div>
         <h4>超链接测试</h4>
         <a href="http://www.baidu.com" id="baidu">百度搜索</a><br />
-        <a href="http://www.python3.vip" id="BYHY">白月黑羽--在线教程</a><br />
+        <a href="http://www.baiyueheiyu.com" id="BYHY">白月黑羽--在线教程</a><br />
         <p>这是为了隔离a标签</p>
         <a href="http://www.baidu.com" id="baidu2">百度搜索2</a>
     </div>

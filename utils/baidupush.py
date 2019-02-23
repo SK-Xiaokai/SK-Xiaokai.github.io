@@ -4,10 +4,10 @@ import requests
         
 urls = [
     
-"http://www.python3.vip/",
-"http://www.python3.vip/doc/tutorial/python/0001/",
+"http://www.baiyueheiyu.com/",
+"http://www.baiyueheiyu.com/doc/tutorial/python/0001/",
 
-# "http://www.python3.vip/doc/tutorial/python/2004/",
+# "http://www.baiyueheiyu.com/doc/tutorial/python/2004/",
 ]
 
 
@@ -19,7 +19,7 @@ try:
     for one in urls:
         print (one)
         response =  requests.post(
-                'http://data.zz.baidu.com/urls?site=www.python3.vip&token=c8B8rNPiMg29JTQC',
+                'http://data.zz.baidu.com/urls?site=www.baiyueheiyu.com&token=c8B8rNPiMg29JTQC',
                 headers={"Content-Type": "text/plain"},
                 data=one
         )

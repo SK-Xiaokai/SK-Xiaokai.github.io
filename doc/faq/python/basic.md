@@ -306,26 +306,26 @@ print(10//4) #结果为2
 
 三引号则可以直接换行，并且可以包含注释
 
-例如定义一个字符串：Welcome to www.python3.vip, let's start to enjoy "python" world
+例如定义一个字符串：Welcome to www.baiyueheiyu.com, let's start to enjoy "python" world
 
 单引号
 
 ```py
-s1 = 'Welcome to www.python3.vip, let\'s start to enjoy "python" world'
-s2 = 'Welcome to www.python3.vip, \nlet\'s start to enjoy "python" world'
+s1 = 'Welcome to www.baiyueheiyu.com, let\'s start to enjoy "python" world'
+s2 = 'Welcome to www.baiyueheiyu.com, \nlet\'s start to enjoy "python" world'
 print(s1)
 print(s2)
 ```
 
 ```
->>> s1 = 'Welcome to www.python3.vip, let\'s start to enjoy "python" world'
+>>> s1 = 'Welcome to www.baiyueheiyu.com, let\'s start to enjoy "python" world'
 >>> s1
-'Welcome to www.python3.vip, let\'s start to enjoy "python" world'
+'Welcome to www.baiyueheiyu.com, let\'s start to enjoy "python" world'
 >>> print(s1)
-Welcome to www.python3.vip, let's start to enjoy "python" world
->>> s2 = 'Welcome to www.python3.vip, \nlet\'s start to enjoy "python" world'
+Welcome to www.baiyueheiyu.com, let's start to enjoy "python" world
+>>> s2 = 'Welcome to www.baiyueheiyu.com, \nlet\'s start to enjoy "python" world'
 >>> print(s2)
-Welcome to www.python3.vip,
+Welcome to www.baiyueheiyu.com,
 let's start to enjoy "python" world
 
 ```
@@ -333,19 +333,19 @@ let's start to enjoy "python" world
 双引号：
 
 ```py
-s3 = “Welcome to www.python3.vip, let's start to enjoy \"python\" world”
-s4 = “Welcome to www.python3.vip, \n let's start to enjoy \"python\" world”
+s3 = “Welcome to www.baiyueheiyu.com, let's start to enjoy \"python\" world”
+s4 = “Welcome to www.baiyueheiyu.com, \n let's start to enjoy \"python\" world”
 print(s3)
 print(s4)
 ```
 
 ```
->>> s3 = "Welcome to www.python3.vip, let's start to enjoy \"python\" world"
+>>> s3 = "Welcome to www.baiyueheiyu.com, let's start to enjoy \"python\" world"
 >>> print(s3)
-Welcome to www.python3.vip, let's start to enjoy "python" world
->>> s4 = "Welcome to www.python3.vip, \n let's start to enjoy \"python\" world"
+Welcome to www.baiyueheiyu.com, let's start to enjoy "python" world
+>>> s4 = "Welcome to www.baiyueheiyu.com, \n let's start to enjoy \"python\" world"
 >>> print(s4)
-Welcome to www.python3.vip,
+Welcome to www.baiyueheiyu.com,
  let's start to enjoy "python" world
 ```
 
@@ -353,7 +353,7 @@ Welcome to www.python3.vip,
 
 ```py
 s5 = '''
-Welcome to www.python3.vip, 
+Welcome to www.baiyueheiyu.com, 
 let's start to enjoy "python" world
 '''
 print(s5)
@@ -361,12 +361,12 @@ print(s5)
 
 ```
 >>> s5 = '''
-... Welcome to www.python3.vip,
+... Welcome to www.baiyueheiyu.com,
 ... let's start to enjoy "python" world
 ... '''
 >>> print(s5)
 
-Welcome to www.python3.vip,
+Welcome to www.baiyueheiyu.com,
 let's start to enjoy "python" world
 
 >>>

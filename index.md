@@ -25,10 +25,10 @@ header:
 初步掌握 Python语言
 {: .text-center}
 
-轻松通过[国家计算机Python语言二级等级考试](http://www.python3.vip/doc/blog/python/2019010501/)
+轻松通过[国家计算机Python语言二级等级考试](http://www.baiyueheiyu.com/doc/blog/python/2019010501/)
 {: .text-center}
   
-你就可以开始尝试做 [Web开发](http://www.python3.vip/doc/tutorial/django/01/)、数据分析与挖掘、自动化工具、[脚本开发](http://www.python3.vip/doc/tutorial/selenium/01introduction/)
+你就可以开始尝试做 [Web开发](http://www.baiyueheiyu.com/doc/tutorial/django/01/)、数据分析与挖掘、自动化工具、[脚本开发](http://www.baiyueheiyu.com/doc/tutorial/selenium/01introduction/)
 {: .text-center}
   
 

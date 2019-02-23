@@ -13,7 +13,7 @@ title                    : "白月黑羽教Python"
 title_separator          : "-"
 name                     : "白月黑羽"
 description              : "白月黑羽专注Python及web开发相关知识传播和学习，提供原创中文精品教程，白月黑羽Python3教程是有多位资深从业大咖专门为职场新人精心准备的Python入门教程，学Python、web开发，就从白月黑羽准备Python3教程开始！"
-url                      : "http://www.python3.vip" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.baiyueheiyu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "baiyuetong/baiyuetong.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -90,7 +90,7 @@ author:
   location         : "杭州"
   email            :
   uri              :
-  home             : "www.python3.vip"
+  home             : "www.baiyueheiyu.com"
   bitbucket        :
   codepen          :
   dribbble         :

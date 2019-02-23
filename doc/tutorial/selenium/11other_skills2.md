@@ -106,7 +106,7 @@ driver = webdriver.Chrome(r"G:\Education\BYHY\Courseware\Improvement\Selenium\ch
 driver.implicitly_wait(5)
 
 # open URL
-URL = 'https://www.python3.vip/'
+URL = 'https://www.baiyueheiyu.com/'
 driver.get(URL)
 
 print(driver.title) # get title
@@ -118,7 +118,7 @@ input('Please input any key to continue......')
 driver.quit()
 ```
 
-如果在浏览网页过程中,你想不断的获取窗口标题和URL的变化情况，那么我就可以用while循环（详情可参考[白月黑羽在线教程](http://www.python3.vip/doc/tutorial/python/0011/#while-循环)）就可以了
+如果在浏览网页过程中,你想不断的获取窗口标题和URL的变化情况，那么我就可以用while循环（详情可参考[白月黑羽在线教程](http://www.baiyueheiyu.com/doc/tutorial/python/0011/#while-循环)）就可以了
 
 ```py
 while True:
@@ -162,7 +162,7 @@ driver.switch_to.window(handle)
 
 WebDriver对象都有window_handles 属性，它是一个列表对象，里面包括了当前浏览器里面所有的窗口句柄。 句柄可以想象成对应网页窗口的一个变量。这样我们就和driver.title就可以进行切换了
 
-例如：从百度搜索‘白月黑羽’来访问www.python3.vip.
+例如：从百度搜索‘白月黑羽’来访问www.baiyueheiyu.com.
 
 ```py
 #! /usr/bin/env python
