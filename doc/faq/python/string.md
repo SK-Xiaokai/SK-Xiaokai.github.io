@@ -114,7 +114,7 @@ uid =  re.findall(r'\(UID\W*(\d*)\)', content)[0]
 关于Python中的正则表达式用法可以参考[Python官方文档](https://docs.python.org/3/library/re.html){:target="_blank"}
 
 
-也可以[参考我们的教程](/doc/tutorial/python/2006/){:target="_blank"}
+也可以[参考我们的教程](/doc/tutorial/python/level2/2006/){:target="_blank"}
 
 
 

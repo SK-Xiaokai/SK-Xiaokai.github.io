@@ -1,7 +1,9 @@
 # 这是定义顶层导航的, 访问什么url 的网页会使用下面的导航在 _config.yml里面设置
 main:
-  - title: "Python3教程"
+  - title: "Python基础"
     url: /doc/tutorial/python/0001/
+  - title: "Python进阶"
+    url: /doc/tutorial/python/level2/1001/
   - title: "Web开发"
     url: /doc/tutorial/django/01/
   - title: "Web自动化"
@@ -18,7 +20,7 @@ main:
 
 # 下面是定义侧边栏的
 
-pythontutor:
+pythontutor1:
   # - title: 前言
   #   url:  /doc/tutorial/python/home/
 
@@ -70,40 +72,42 @@ pythontutor:
       # - title: "Python之禅"
       #   url: /doc/tutorial/python/0021/
 
-  - title: Python提高 
+
+pythontutor2:
+  - title: Python进阶
     children:
       - title: "调用其他程序"
-        url:  /doc/tutorial/python/1001/
+        url:  /doc/tutorial/python/level2/1001/
       - title: "多线程"
-        url:  /doc/tutorial/python/1002/
+        url:  /doc/tutorial/python/level2/1002/
       - title: "装饰器"
-        url:  /doc/tutorial/python/1003/
+        url:  /doc/tutorial/python/level2/1003/
       - title: "json"
-        url:  /doc/tutorial/python/2001/
+        url:  /doc/tutorial/python/level2/2001/
       - title: "Requests库"
-        url:  /doc/tutorial/python/2002/
+        url:  /doc/tutorial/python/level2/2002/
       - title: "wxpython图形界面"
-        url:  /doc/tutorial/python/2003/
+        url:  /doc/tutorial/python/level2/2003/
       - title: "数据库访问"
-        url:  /doc/tutorial/python/2004/
+        url:  /doc/tutorial/python/level2/2004/
       - title: "socket编程"
-        url:  /doc/tutorial/python/2005/
+        url:  /doc/tutorial/python/level2/2005/
       - title: "正则表达式"
-        url:  /doc/tutorial/python/2006/
+        url:  /doc/tutorial/python/level2/2006/
       - title: "Excel 读写"
-        url:  /doc/tutorial/python/excel/
+        url:  /doc/tutorial/python/level2/excel/
       - title: "制作可执行文件"
-        url: /doc/tutorial/python/toexe/
+        url: /doc/tutorial/python/level2/toexe/
       - title: "浅拷贝与深拷贝"
-        url:  /doc/tutorial/python/1007/
+        url:  /doc/tutorial/python/level2/1007/
       - title: "OS模块用法"
-        url:  /doc/tutorial/python/1005/
+        url:  /doc/tutorial/python/level2/1005/
       - title: "微信机器人"
-        url:  /doc/tutorial/python/2007/ 
+        url:  /doc/tutorial/python/level2/2007/ 
       # - title: "pygame- 简介"
-      #   url:  /doc/tutorial/python/game1/
+      #   url:  /doc/tutorial/python/level2/game1/
       # - title: "pygame- 提高"
-      #   url:  /doc/tutorial/python/game2/
+      #   url:  /doc/tutorial/python/level2/game2/
 
 
 

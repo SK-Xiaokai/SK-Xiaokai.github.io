@@ -45,7 +45,7 @@ Web自动化开发，浏览器首推使用 Chrome 浏览器。
 
 如何下载使用Chrome浏览器驱动，参考这里
 
-/doc/tutorial/python/2005_1/#%E5%AE%89%E8%A3%85%E6%B5%8F%E8%A7%88%E5%99%A8%E9%A9%B1%E5%8A%A8
+/doc/tutorial/python/level2/2005_1/#%E5%AE%89%E8%A3%85%E6%B5%8F%E8%A7%88%E5%99%A8%E9%A9%B1%E5%8A%A8
 
 
 
